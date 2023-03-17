@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\bin\Debug\net7.0\ReverseWord.exe
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\bin\Debug\net7.0\ReverseWord.deps.json
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\bin\Debug\net7.0\ReverseWord.runtimeconfig.json
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\bin\Debug\net7.0\ReverseWord.dll
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\bin\Debug\net7.0\ReverseWord.pdb
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ReverseWord.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ReverseWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ReverseWord.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ReverseWord.AssemblyInfo.cs
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ReverseWord.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ReverseWord.dll
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\refint\ReverseWord.dll
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ReverseWord.pdb
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ReverseWord.genruntimeconfig.cache
+C:\xampp\htdocs\Bootcamp\Day1\ReverseWord\obj\Debug\net7.0\ref\ReverseWord.dll

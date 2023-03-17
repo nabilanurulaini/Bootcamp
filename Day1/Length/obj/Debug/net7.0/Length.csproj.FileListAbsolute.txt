@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\Length.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\Length.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\Length.AssemblyInfo.cs
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\Length.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Bootcamp\Day1\Length\bin\Debug\net7.0\Length.exe
+C:\xampp\htdocs\Bootcamp\Day1\Length\bin\Debug\net7.0\Length.deps.json
+C:\xampp\htdocs\Bootcamp\Day1\Length\bin\Debug\net7.0\Length.runtimeconfig.json
+C:\xampp\htdocs\Bootcamp\Day1\Length\bin\Debug\net7.0\Length.dll
+C:\xampp\htdocs\Bootcamp\Day1\Length\bin\Debug\net7.0\Length.pdb
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\Length.dll
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\refint\Length.dll
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\Length.pdb
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\Length.genruntimeconfig.cache
+C:\xampp\htdocs\Bootcamp\Day1\Length\obj\Debug\net7.0\ref\Length.dll
