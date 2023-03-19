@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\bin\Debug\net7.0\OOP2.exe
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\bin\Debug\net7.0\OOP2.deps.json
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\bin\Debug\net7.0\OOP2.runtimeconfig.json
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\bin\Debug\net7.0\OOP2.dll
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\bin\Debug\net7.0\OOP2.pdb
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\OOP2.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\OOP2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\OOP2.AssemblyInfo.cs
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\OOP2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\OOP2.dll
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\refint\OOP2.dll
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\OOP2.pdb
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\OOP2.genruntimeconfig.cache
+C:\xampp\htdocs\Bootcamp\Day2\OOP2\obj\Debug\net7.0\ref\OOP2.dll
