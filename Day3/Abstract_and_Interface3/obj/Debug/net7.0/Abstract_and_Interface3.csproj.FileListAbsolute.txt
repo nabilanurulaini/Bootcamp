@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\Abstract_and_Interface3.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\Abstract_and_Interface3.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\Abstract_and_Interface3.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\Abstract_and_Interface3.AssemblyInfo.cs
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\Abstract_and_Interface3.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\bin\Debug\net7.0\Abstract_and_Interface3.exe
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\bin\Debug\net7.0\Abstract_and_Interface3.deps.json
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\bin\Debug\net7.0\Abstract_and_Interface3.runtimeconfig.json
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\bin\Debug\net7.0\Abstract_and_Interface3.dll
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\bin\Debug\net7.0\Abstract_and_Interface3.pdb
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\Abstract_and_Interface3.dll
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\refint\Abstract_and_Interface3.dll
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\Abstract_and_Interface3.pdb
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\Abstract_and_Interface3.genruntimeconfig.cache
+C:\xampp\htdocs\Bootcamp\Day3\Abstract_and_Interface3\obj\Debug\net7.0\ref\Abstract_and_Interface3.dll

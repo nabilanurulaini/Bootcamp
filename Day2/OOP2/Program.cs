@@ -8,8 +8,11 @@ namespace OOP2{
             Product p3 = new Product("Tablet", "Apple iPad Air 2", 400);
             Product p4 = new Product("Camera", "Canon EOS 5D Mark III", 700);
             Product p5 = new Product("TV", "Sony Bravia 55", 1000);
+            // Array of Products
             Product[] products = {p1, p2, p3, p4, p5};
+            // Print all products
             foreach(Product p in products){
+                // Print product details
                 p.PrintDetails();
                 Console.WriteLine();
             }
