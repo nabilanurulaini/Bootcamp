@@ -7,10 +7,17 @@ abstract class Abstract_class
     // Method declaration for abstract class
     public abstract void abstract_method();
 }
-  
+ interface Igfg
+ {
+    void Igfg_method();
+ } 
 // Parent class
-class GFG : Abstract_class
+class GFG : Abstract_class, Igfg
 {
+    public void Igfg_method()
+    {
+        Console.WriteLine("Interface method is called");
+    }
       
     // Method definition for abstract method
     public override void abstract_method()
@@ -54,5 +61,6 @@ public static void Main(String[] args)
     obj.abstract_method();
     obj.Mymethod1();
     obj.Mymethod2();
+    obj.Igfg_method();
 }
 }
