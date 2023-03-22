@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\bin\Debug\net7.0\Enumerator.exe
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\bin\Debug\net7.0\Enumerator.deps.json
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\bin\Debug\net7.0\Enumerator.runtimeconfig.json
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\bin\Debug\net7.0\Enumerator.dll
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\bin\Debug\net7.0\Enumerator.pdb
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\Enumerator.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\Enumerator.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\Enumerator.AssemblyInfo.cs
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\Enumerator.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\Enumerator.dll
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\refint\Enumerator.dll
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\Enumerator.pdb
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\Enumerator.genruntimeconfig.cache
+C:\xampp\htdocs\Bootcamp\Day5\Enumerator\obj\Debug\net7.0\ref\Enumerator.dll

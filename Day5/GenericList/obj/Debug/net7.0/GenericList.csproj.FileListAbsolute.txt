@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\GenericList.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\GenericList.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\GenericList.AssemblyInfo.cs
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\GenericList.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\bin\Debug\net7.0\GenericList.exe
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\bin\Debug\net7.0\GenericList.deps.json
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\bin\Debug\net7.0\GenericList.runtimeconfig.json
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\bin\Debug\net7.0\GenericList.dll
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\bin\Debug\net7.0\GenericList.pdb
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\GenericList.dll
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\refint\GenericList.dll
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\GenericList.pdb
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\GenericList.genruntimeconfig.cache
+C:\xampp\htdocs\Bootcamp\Day5\GenericList\obj\Debug\net7.0\ref\GenericList.dll

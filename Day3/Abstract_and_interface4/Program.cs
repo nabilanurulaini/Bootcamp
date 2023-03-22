@@ -50,8 +50,7 @@ class Program
             Console.WriteLine("Product Name = "+food.Product()[i]);
             Console.WriteLine("Price = "+food.Price()[i]);
             Console.WriteLine("Stock = "+food.Stock()[i]);
-            Console.WriteLine("Brand = "+food.Brand()[i]);
-            
+            Console.WriteLine("Brand = "+food.Brand()[i]);   
         }
         Console.WriteLine("Choose the product you want to buy (1-4)");
         int InputProduct = Convert.ToInt32(Console.ReadLine());
@@ -68,7 +67,7 @@ class Program
             else
             {
                 Console.WriteLine("You have chosen "+food.Product()[InputProduct-1]);
-                Console.WriteLine("The price is "+food.Price()[InputProduct-1]);
+                Console.WriteLine("The price is "+food.Price()[InputProduct-1]*CountStock);
             }
 
 
