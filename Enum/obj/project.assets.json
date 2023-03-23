@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\HP\\Bootcamp\\Day5\\GenericList\\GenericList.csproj",
-      "projectName": "GenericList",
-      "projectPath": "c:\\Users\\HP\\Bootcamp\\Day5\\GenericList\\GenericList.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Bootcamp\\Enum\\Enum.csproj",
+      "projectName": "Enum",
+      "projectPath": "C:\\Users\\HP\\Bootcamp\\Enum\\Enum.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\HP\\Bootcamp\\Day5\\GenericList\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Bootcamp\\Enum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

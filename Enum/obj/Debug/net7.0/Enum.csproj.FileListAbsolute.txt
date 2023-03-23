@@ -1,0 +1,15 @@
+c:\Users\HP\Bootcamp\Enum\bin\Debug\net7.0\Enum.exe
+c:\Users\HP\Bootcamp\Enum\bin\Debug\net7.0\Enum.deps.json
+c:\Users\HP\Bootcamp\Enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+c:\Users\HP\Bootcamp\Enum\bin\Debug\net7.0\Enum.dll
+c:\Users\HP\Bootcamp\Enum\bin\Debug\net7.0\Enum.pdb
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\Enum.csproj.AssemblyReference.cache
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\Enum.dll
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\refint\Enum.dll
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\Enum.pdb
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+c:\Users\HP\Bootcamp\Enum\obj\Debug\net7.0\ref\Enum.dll
