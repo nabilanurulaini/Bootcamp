@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\Day6_3.csproj": {}
+    "c:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\Day6_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\Day6_3.csproj": {
+    "c:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\Day6_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\Day6_3.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\Day6_3.csproj",
         "projectName": "Day6_3",
-        "projectPath": "C:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\Day6_3.csproj",
+        "projectPath": "c:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\Day6_3.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Bootcamp\\Day6\\Day6_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

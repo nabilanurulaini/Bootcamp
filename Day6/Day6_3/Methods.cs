@@ -1,12 +1,13 @@
 //kalau class static, methodnya juga harus static. Tapi kalau methodnya static, classnya boleh static atau tidak
-class MethodsOnlineShop<T1, T2>
+delegate T1 DelegateOnlineShop<T1, T2>(T1 name, T2 quantity);
+delegate void DelegateDictionary(Dictionary<string, string> ProductValue, string ProductKey);
+static class MethodsOnlineShop<T1, T2>
 {
     public static T1 GetProduct(T1 name, T2 price)
     {
         if(name is int keyName && price is int keyPrice)
         {
             return (T1)(object)(keyName + " " + keyPrice);
-            
         }
         else if(name is string keyName2 && price is string keyPrice2 )
         {
@@ -33,7 +34,6 @@ class MethodsOnlineShop<T1, T2>
     //     {"Books", "Novel, Biography, History, Science, Math, Art, Religion"},
     //     {"Others", "Others"}
     // };
-      
 }
 
 // class DictionaryProduct{
@@ -56,6 +56,6 @@ class MethodsOnlineShop<T1, T2>
 
     // {
     //     delDict(ConvertDictionary, ProductKey);
-        
+
     // }
 // }

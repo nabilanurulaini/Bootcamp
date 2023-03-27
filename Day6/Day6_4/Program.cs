@@ -13,11 +13,11 @@ class Program
         int number = Convert.ToInt32(Console.ReadLine());
         for (int i = 0; i <= number; i++)
         {
-
             if(DictionaryTry.ContainsKey(i)){
                 Console.Write(DictionaryTry[i]+", ");
             }
-            else{
+            else
+            {
                 Console.Write(i+", ");
             }
             // if(i==0)
@@ -38,7 +38,6 @@ class Program
             // {
             //     Console.Write(i+", ");
             // }
-            //Console.WriteLine(DictionaryTry.ElementAt(i).Value);
+            }   //Console.WriteLine(DictionaryTry.ElementAt(i).Value);
         }
     }
-}
