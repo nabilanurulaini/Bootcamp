@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\bin\Debug\net7.0\Day7_5.exe
+c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\bin\Debug\net7.0\Day7_5.deps.json
+c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\bin\Debug\net7.0\Day7_5.runtimeconfig.json
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\bin\Debug\net7.0\Day7_5.dll
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\bin\Debug\net7.0\Day7_5.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\Day7_5.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\Day7_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\Day7_5.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\Day7_5.AssemblyInfo.cs
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\Day7_5.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\Day7_5.dll
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\refint\Day7_5.dll
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\Day7_5.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\Day7_5.genruntimeconfig.cache
+c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day7\Day7_5\obj\Debug\net7.0\ref\Day7_5.dll
