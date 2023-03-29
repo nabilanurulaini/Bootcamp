@@ -1,0 +1,15 @@
+c:\Users\HP\Bootcamp\Day9\Day9_6\bin\Debug\net7.0\Day9_6.exe
+c:\Users\HP\Bootcamp\Day9\Day9_6\bin\Debug\net7.0\Day9_6.deps.json
+c:\Users\HP\Bootcamp\Day9\Day9_6\bin\Debug\net7.0\Day9_6.runtimeconfig.json
+c:\Users\HP\Bootcamp\Day9\Day9_6\bin\Debug\net7.0\Day9_6.dll
+c:\Users\HP\Bootcamp\Day9\Day9_6\bin\Debug\net7.0\Day9_6.pdb
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\Day9_6.csproj.AssemblyReference.cache
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\Day9_6.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\Day9_6.AssemblyInfoInputs.cache
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\Day9_6.AssemblyInfo.cs
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\Day9_6.csproj.CoreCompileInputs.cache
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\Day9_6.dll
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\refint\Day9_6.dll
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\Day9_6.pdb
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\Day9_6.genruntimeconfig.cache
+c:\Users\HP\Bootcamp\Day9\Day9_6\obj\Debug\net7.0\ref\Day9_6.dll

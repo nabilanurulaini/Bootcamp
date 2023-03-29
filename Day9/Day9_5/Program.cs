@@ -9,14 +9,10 @@ class Program{
 
     int thirty = Convert.ToInt32 ("1E", 16); // Parse in hexadecimal (30)
     uint five = Convert.ToUInt32 ("101", 2); // Parse in binary (5)
-    
-    
-    
+
     Console.WriteLine(thirty);
     Console.WriteLine(five);
-    
     //tidak bisa diconvert dari dynamic y ke int karena isinya adalah string
-    
     try{
         dynamic x = 123;
         string xStr = (string)x;
@@ -28,13 +24,9 @@ class Program{
     finally{
         Console.WriteLine("Finally");
     }
-    
     int value = 16;
     byte[] bytes =  BitConverter.GetBytes(value);
     foreach (byte b in bytes)
         Console.Write(b);
-
     }
-
-
 }
