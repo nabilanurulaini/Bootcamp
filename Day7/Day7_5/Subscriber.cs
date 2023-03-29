@@ -1,12 +1,21 @@
 namespace Day7_5;
 
-public static class Subscriber
+public class Subscriber
 {
-    public void Bl_ProcessCompleted(object sender, ProcessEventArgs e)
+    public void Subscribe(Publisher publisher)
     {
-        Console.WriteLine("Process " + (e.IsSuccessful? "Completed Successfully": "failed"));
-		Console.WriteLine("Completion Time: " + e.CompletionTime.ToLongDateString());
+        publisher.MyEvent += MyEventHandler;
     }
-
-   
+    public void MyEventHandler(object sender, ProcessEvent e)
+    {
+        string time = DateTime.Now.ToString("HH:mm:ss");
+        Console.WriteLine($"Subscriber 1 : {e.Message} at {time}");
+    }
+}
+public class Subscriber1{
+    public void MyEventHandler1(object sender, ProcessEvent e)
+    {
+        string time = DateTime.Now.ToString("HH:mm:ss");
+        Console.WriteLine($"Subscriber 2 : {e.Message} at {time}");
+    }
 }

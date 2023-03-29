@@ -1,42 +1,26 @@
 namespace Day7_5;
-//public delegate void Notify();
-class ProcessEventArgs : EventArgs
-{
-    public bool IsSuccessful { get; set;}
-    public DateTime CompletionTime { get; set;}
-}
-public class ProcessBusinessLogic
-{
-    public event EventHandler<ProcessEventArgs> ProcessCompleted; // event
 
-    public void StartProcess()
+public class ProcessEvent : EventArgs
+{
+    public string Message { get; }
+    public ProcessEvent(string message)
     {
-		var data = new ProcessEventArgs();
-		
-		try
-		{
-			Console.WriteLine("Process Started!");
-			
-			//uncomment following to see the result
-			//throw new NullReferenceException();
-			
-        	// some process code here..
-			
-			data.IsSuccessful = true;
-			data.CompletionTime = DateTime.Now;
-        	OnProcessCompleted(data);
-		}
-		catch(Exception ex)
-		{
-			data.IsSuccessful = false;
-			data.CompletionTime = DateTime.Now;
-			OnProcessCompleted(data);
-		}
+        Message = message;
     }
-
-
-    protected virtual void OnProcessCompleted(ProcessEventArgs e)
+}
+public class Publisher
+{
+    // public delegate void MyDelegate(string message);
+    public event EventHandler<ProcessEvent> MyEvent;
+    public string data;
+    public void DoSomething()
     {
-        ProcessCompleted?.Invoke(this, e);
+        Console.WriteLine("Processing . . .");
+        RaiseEvent("Posted a Message");
+    }
+    public virtual void RaiseEvent(string message)
+    {
+        MyEvent?.Invoke(this, new ProcessEvent(message));
+        Console.WriteLine("Completed!");
     }
 }
