@@ -1,0 +1,5 @@
+c:\Users\HP\Bootcamp\Day10\Day10_9\obj\Debug\net7.0\Day10_9.csproj.AssemblyReference.cache
+c:\Users\HP\Bootcamp\Day10\Day10_9\obj\Debug\net7.0\Day10_9.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Bootcamp\Day10\Day10_9\obj\Debug\net7.0\Day10_9.AssemblyInfoInputs.cache
+c:\Users\HP\Bootcamp\Day10\Day10_9\obj\Debug\net7.0\Day10_9.AssemblyInfo.cs
+c:\Users\HP\Bootcamp\Day10\Day10_9\obj\Debug\net7.0\Day10_9.csproj.CoreCompileInputs.cache
