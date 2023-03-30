@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\Day10_2.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\Day10_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\Day10_2.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\Day10_2.AssemblyInfo.cs
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\Day10_2.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\bin\Debug\net7.0\Day10_2.exe
+c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\bin\Debug\net7.0\Day10_2.deps.json
+c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\bin\Debug\net7.0\Day10_2.runtimeconfig.json
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\bin\Debug\net7.0\Day10_2.dll
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\bin\Debug\net7.0\Day10_2.pdb
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\Day10_2.dll
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\refint\Day10_2.dll
+C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\Day10_2.pdb
+c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\Day10_2.genruntimeconfig.cache
+c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_2\obj\Debug\net7.0\ref\Day10_2.dll
