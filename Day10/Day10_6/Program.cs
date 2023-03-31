@@ -3,9 +3,9 @@ using System.Collections;
 using System.Linq;
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        PatientQueue queue = new PatientQueue();
+        PatientQueue queue = new();
 
         // Enqueue pasien
         queue.Enqueue(new Patient("Jono", "Sakit kepala"));
@@ -15,6 +15,11 @@ class Program
         queue.Enqueue(new Patient("Hawa", "Patah tulang"));
 
        
+        queue.Enqueue(new Patient("Pasien 1", "Sakit kepala"));
+        queue.Enqueue(new Patient("Pasien 2", "Demam"));
+        queue.Enqueue(new Patient("Pasien 3", "Flu"));
+        queue.Enqueue(new Patient("Pasien 4", "Luka bakar"));
+        queue.Enqueue(new Patient("Pasien 5", "Patah tulang"));
         // Dequeue pasien
         while (queue.Count > 0)
         {
@@ -52,11 +57,12 @@ class PatientQueue
     private Queue<Patient> queue = new();
     
 
-    public int Count { 
-        get 
-        { 
-            return queue.Count; 
-        } 
+    public int Count
+    {
+        get
+        {
+            return queue.Count;
+        }
     }
 
     public void Enqueue(Patient patient)
