@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        PatientQueue queue = new();
+        PatientQueue queue = new();;
 
         // Enqueue pasien baru
         queue.Enqueue(new Patient("Jono", "Sakit kepala"));

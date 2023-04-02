@@ -7,7 +7,7 @@ class CheckDictionary
 
     public void Add(int key, string value)
     {
-        dict.Add(key, value);
+        dict.TryAdd(key, value);
         Console.WriteLine("Key = "+key + ", Value " + value + " successfully added");
     }
 
