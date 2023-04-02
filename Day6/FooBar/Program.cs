@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 namespace FooBar;
+
 class Program
 {
     static void Main()
@@ -18,4 +19,3 @@ class Program
         check.Print();
     }
 }
-
