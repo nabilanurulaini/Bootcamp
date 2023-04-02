@@ -3,7 +3,13 @@ using System.Collections.ObjectModel;
 namespace TryCollection2{
     class Program {
         static void Main(){
-
+            OnlineShop os = new OnlineShop();
+            os.Product.Add (new OnlineShop ("Chicken", 10));
+            os.Product.Add (new OnlineShop ("Panda", 20));
+            foreach (Animal a in zoo.Product)
+            {
+                Console.WriteLine (a.Name);
+            }
         }
 
     }
@@ -21,44 +27,11 @@ namespace TryCollection2{
     public class OnlineShopCollection : Collection<OnlineShop>
     {
         //tidak diisi karena sudah ada di class Collection
-        Shop shop;
-        public OnlineShopCollection(Shop shop)
-        {
-            this.shop = shop;
-        }
-        protected override  void InsertItem(int index, OnlineShop item )
-        {
-            base.InsertItem(index, item);
-            item.Shop = shop;
-        }
-        protected override void SetItem(int index, OnlineShop item)
-        {
-            base.SetItem(index, item);
-            item.Shop = shop;
-        }
-        protected override void RemoveItem(int index)
-        {
-            this[index].Shop = null;
-            base.RemoveItem(index);
-        }
-        protected override void ClearItems()
-        {
-            //this ke OnlineShopCollection : Collection<OnlineShop>
-            foreach (OnlineShop item in this)
-            {
-                item.Shop = null;
-            }
-            base.ClearItems();
-        }
+
     }
     public class Shop
     {
-        public readonly OnlineSHopCollection Product;
+        public readonly OnlineShopCollection Product = new OnlineShopCollection();
         //membuat constructor untuk class Shop
-        public Shop()
-        {
-            //public class shop ke dalam class OnlineShopCollection
-            Product = new OnlineSHopCollection(this);
-        }
     }
 }

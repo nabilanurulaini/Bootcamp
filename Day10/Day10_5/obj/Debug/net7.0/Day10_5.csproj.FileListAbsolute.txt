@@ -13,3 +13,18 @@ C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_5\obj\Debug\net7.0\refi
 C:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_5\obj\Debug\net7.0\Day10_5.pdb
 c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_5\obj\Debug\net7.0\Day10_5.genruntimeconfig.cache
 c:\Users\Formulatrix\Desktop\Bootcamp Nabila\Day10\Day10_5\obj\Debug\net7.0\ref\Day10_5.dll
+c:\Users\HP\Bootcamp\Day10\Day10_5\bin\Debug\net7.0\Day10_5.exe
+c:\Users\HP\Bootcamp\Day10\Day10_5\bin\Debug\net7.0\Day10_5.deps.json
+c:\Users\HP\Bootcamp\Day10\Day10_5\bin\Debug\net7.0\Day10_5.runtimeconfig.json
+c:\Users\HP\Bootcamp\Day10\Day10_5\bin\Debug\net7.0\Day10_5.dll
+c:\Users\HP\Bootcamp\Day10\Day10_5\bin\Debug\net7.0\Day10_5.pdb
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\Day10_5.csproj.AssemblyReference.cache
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\Day10_5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\Day10_5.AssemblyInfoInputs.cache
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\Day10_5.AssemblyInfo.cs
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\Day10_5.csproj.CoreCompileInputs.cache
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\Day10_5.dll
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\refint\Day10_5.dll
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\Day10_5.pdb
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\Day10_5.genruntimeconfig.cache
+c:\Users\HP\Bootcamp\Day10\Day10_5\obj\Debug\net7.0\ref\Day10_5.dll

@@ -12,14 +12,23 @@ class Program{
         {
             Console.WriteLine(item);
         }
-        string[] ArrayCopy = new string[15];
-        list.CopyTo(ArrayCopy);
-        list.CopyTo(ArrayCopy, 1);
-        list.CopyTo(2, ArrayCopy, 12, 3);
-        foreach (var item in ArrayCopy)
+        list.Add("Papaya");
+        list.Insert(0, "Jackfruit");
+        list.Remove("Mango");
+        Console.WriteLine("After Add, Insert, Remove");
+        foreach (var item in list)
         {
             Console.WriteLine(item);
         }
+        
+        // string[] ArrayCopy = new string[15];
+        // list.CopyTo(ArrayCopy);
+        // list.CopyTo(ArrayCopy, 1);
+        // list.CopyTo(2, ArrayCopy, 12, 3);
+        // foreach (var item in ArrayCopy)
+        // {
+        //     Console.WriteLine(item);
+        // }
         // IList<string> list2 = (IList)list.CopyTo();
         // list2.Add("Papaya");
         // foreach (var item2 in list2)
