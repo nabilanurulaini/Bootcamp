@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day10\\Day10_6\\Day10_6.csproj",
-      "projectName": "Day10_6",
-      "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day10\\Day10_6\\Day10_6.csproj",
+      "projectUniqueName": "C:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day11\\Day11_3\\Day11_3.csproj",
+      "projectName": "Day11_3",
+      "projectPath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day11\\Day11_3\\Day11_3.csproj",
       "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day10\\Day10_6\\obj\\",
+      "outputPath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day11\\Day11_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

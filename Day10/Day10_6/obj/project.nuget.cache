@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "1n2D/9nh/uqVQ10Y3sX9amGTkSKL3vJjPt8AnbcDNULZ8a8hRyrNTXw2xiEdfFvQAl5rCImktEAqk1/HapOEPA==",
+  "dgSpecHash": "4xWraqKCSkp+GzNUMQPKCcMqK8iwGbfkRfk9R6gAUf77tmx518pM+yP6psVvjfE/2QEp/Qf7VdCjzysoirVDrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Bootcamp\\Day10\\Day10_6\\Day10_6.csproj",
+  "projectFilePath": "c:\\Users\\HP\\Bootcamp\\Day10\\Day10_6\\Day10_6.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\Users\\HP\\Bootcamp\\Day10\\Day10_6\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

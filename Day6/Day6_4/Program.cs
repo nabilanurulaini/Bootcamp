@@ -1,43 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
+
 class Program
 {
     static void Main(string[] args)
     {
-        var DictionaryTry = new Dictionary<int, string>(){
-			{3, "Foo"},
-			{5, "Bar"},
-		};
-        Console.WriteLine("Input a number: ");
+        Dictionary<int, string> foobarDict = new Dictionary<int, string>();
+        int start = 1; // Angka pertama dalam deret
+        int end = 100; // Angka terakhir dalam deret
 
-        int number = Convert.ToInt32(Console.ReadLine());
-        for (int i = 0; i <= number; i++)
+        for (int i = 0; i <= end; i++)
         {
-            if(DictionaryTry.ContainsKey(i)){
-                Console.Write(DictionaryTry[i]+", ");
-            }
-            else
+            CheckNumber checkNumber = new CheckNumber(i);
+            if (checkNumber.IsDivisibleBy(3) && checkNumber.IsDivisibleBy(5))
             {
-                Console.Write(i+", ");
+                foobarDict.Add(i, "foobar");
             }
-            // if(i==0)
-            // {
-            //     Console.Write(i+", ");
-            // }
-            // else if(1%3==0){
-            //     Console.Write(DictionaryTry[3]+", ");
-            // }
-            // else if(i%5==0)
-            // {
-            //     Console.Write(DictionaryTry[5]+", ");
-            // }
-            // else if(i%3==0 && i%5==0){
-            //     Console.Write("FooBar, ");
-            // }
-            // else
-            // {
-            //     Console.Write(i+", ");
-            // }
-            }   //Console.WriteLine(DictionaryTry.ElementAt(i).Value);
+            else if (checkNumber.IsDivisibleBy(3))
+            {
+                foobarDict.Add(i, "foo");
+            }
+            else if (checkNumber.IsDivisibleBy(5))
+            {
+                foobarDict.Add(i, "bar");
+            }
+        }
+
+        // Mengakses nilai deret dan mencetak hasilnya
+        foreach (KeyValuePair<int, string> pair in foobarDict)
+        {
+            Console.WriteLine(pai);
         }
     }
+}
+
+class CheckNumber
+{
+    private int number;
+
+    public CheckNumber(int number)
+    {
+        this.number = number;
+    }
+
+    public bool IsDivisibleBy(int divisor)
+    {
+        return number % divisor == 0;
+    }
+}
