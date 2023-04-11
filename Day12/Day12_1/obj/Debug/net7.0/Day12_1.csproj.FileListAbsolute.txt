@@ -21,3 +21,10 @@ C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Da
 C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.dll
 C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\refint\Day12_1.dll
 C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.pdb
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\bin\Debug\net7.0\Day12_1.exe
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\bin\Debug\net7.0\Day12_1.deps.json
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\bin\Debug\net7.0\Day12_1.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\bin\Debug\net7.0\Day12_1.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\bin\Debug\net7.0\Day12_1.pdb
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\ref\Day12_1.dll
