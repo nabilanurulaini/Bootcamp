@@ -3,3 +3,13 @@ C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\Da
 C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\Day11_2.AssemblyInfoInputs.cache
 C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\Day11_2.AssemblyInfo.cs
 C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\Day11_2.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\bin\Debug\net7.0\Day11_2.exe
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\bin\Debug\net7.0\Day11_2.deps.json
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\bin\Debug\net7.0\Day11_2.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\bin\Debug\net7.0\Day11_2.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\bin\Debug\net7.0\Day11_2.pdb
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\Day11_2.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\refint\Day11_2.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\Day11_2.pdb
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\Day11_2.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day11\Day11_2\obj\Debug\net7.0\ref\Day11_2.dll

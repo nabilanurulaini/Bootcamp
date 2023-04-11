@@ -13,3 +13,11 @@ c:\Users\HP\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\refint\Day12_1.dll
 c:\Users\HP\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.pdb
 c:\Users\HP\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.genruntimeconfig.cache
 c:\Users\HP\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\ref\Day12_1.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\refint\Day12_1.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day12\Day12_1\obj\Debug\net7.0\Day12_1.pdb
