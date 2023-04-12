@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\bin\Debug\net7.0\Day17_3.exe
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\bin\Debug\net7.0\Day17_3.deps.json
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\bin\Debug\net7.0\Day17_3.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\bin\Debug\net7.0\Day17_3.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\bin\Debug\net7.0\Day17_3.pdb
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\Day17_3.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\Day17_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\Day17_3.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\Day17_3.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\Day17_3.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\Day17_3.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\refint\Day17_3.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\Day17_3.pdb
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\Day17_3.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day17\Day17_3\obj\Debug\net7.0\ref\Day17_3.dll
