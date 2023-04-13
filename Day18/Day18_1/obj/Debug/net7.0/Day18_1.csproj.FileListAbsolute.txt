@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\bin\Debug\net7.0\Day18_1.exe
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\bin\Debug\net7.0\Day18_1.deps.json
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\bin\Debug\net7.0\Day18_1.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\bin\Debug\net7.0\Day18_1.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\bin\Debug\net7.0\Day18_1.pdb
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\Day18_1.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\Day18_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\Day18_1.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\Day18_1.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\Day18_1.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\Day18_1.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\refint\Day18_1.dll
+C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\Day18_1.pdb
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\Day18_1.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day18\Day18_1\obj\Debug\net7.0\ref\Day18_1.dll
