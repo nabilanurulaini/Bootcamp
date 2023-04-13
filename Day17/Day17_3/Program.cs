@@ -4,7 +4,7 @@ class Program
 {
     static int Divide(int numerator, int denominator)
     {
-        Contract.Requires(denominator != 1);
+        Contract.Requires(denominator != 0);
         Contract.Ensures(Contract.Result<int>() >= 0);
 
         int result = numerator / denominator;
