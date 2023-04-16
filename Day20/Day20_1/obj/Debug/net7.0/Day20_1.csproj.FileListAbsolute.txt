@@ -1,0 +1,15 @@
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\Day20_1.csproj.AssemblyReference.cache
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\Day20_1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\Day20_1.AssemblyInfoInputs.cache
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\Day20_1.AssemblyInfo.cs
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\Day20_1.csproj.CoreCompileInputs.cache
+c:\Users\HP\Bootcamp\Day20\Day20_1\bin\Debug\net7.0\Day20_1.exe
+c:\Users\HP\Bootcamp\Day20\Day20_1\bin\Debug\net7.0\Day20_1.deps.json
+c:\Users\HP\Bootcamp\Day20\Day20_1\bin\Debug\net7.0\Day20_1.runtimeconfig.json
+c:\Users\HP\Bootcamp\Day20\Day20_1\bin\Debug\net7.0\Day20_1.dll
+c:\Users\HP\Bootcamp\Day20\Day20_1\bin\Debug\net7.0\Day20_1.pdb
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\Day20_1.dll
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\refint\Day20_1.dll
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\Day20_1.pdb
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\Day20_1.genruntimeconfig.cache
+c:\Users\HP\Bootcamp\Day20\Day20_1\obj\Debug\net7.0\ref\Day20_1.dll
