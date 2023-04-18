@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATYBvxiGhZ9ZfJDxnf64b8O1Uhx1GFWnWyFPN2ySmAqunT9kjvxlEUonaGA4tRUwgdiQuqFGBZp84VLxJjmG2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day21\\Day21_3\\Day21_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\protobuf\\2.6.1.1\\protobuf.2.6.1.1.nupkg.sha512",
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\protobuf-net\\3.2.16\\protobuf-net.3.2.16.nupkg.sha512",
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\protobuf-net.core\\3.2.16\\protobuf-net.core.3.2.16.nupkg.sha512",
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
