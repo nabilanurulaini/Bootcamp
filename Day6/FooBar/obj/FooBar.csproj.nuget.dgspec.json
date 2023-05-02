@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj": {}
+    "C:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj": {
+    "C:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj",
         "projectName": "FooBar",
-        "projectPath": "c:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj",
+        "projectPath": "C:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
