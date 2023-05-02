@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using NLog;
+
 namespace FooBar;
 
 class Program

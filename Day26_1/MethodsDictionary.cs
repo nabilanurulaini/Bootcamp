@@ -3,20 +3,16 @@ namespace FooBar;
 
 class CheckDictionary
 {
-    private static Logger logger = LogManager.GetCurrentClassLogger();
-
-
 
     private SortedDictionary<int, string> dict = new SortedDictionary<int, string>();
     private int input;
-
+    
     public void Add(int key, string value)
     {
-        LogManager.LoadConfiguration(Path.Combine(Directory.GetCurrentDirectory(), "nlog.config"));
-
+ 
         dict.TryAdd(key, value);
         Console.WriteLine("Key = " + key + ", Value " + value + " successfully added");
-        logger.Info("Key = " + key + ", Value " + value + " successfully added");
+        Logger.Info("Key = " + key + ", Value " + value + " successfully added");
     }
 
     public void SetLimit(int input)
@@ -27,7 +23,7 @@ class CheckDictionary
     {
         dict.Remove(key);
         Console.WriteLine("Key = " + key + " successfully removed");
-    logger.Info("Key = " + key + " successfully removed");
+    Logger.Info("Key = " + key + " successfully removed");
     }
 
     public void Print()
@@ -39,7 +35,7 @@ class CheckDictionary
                 Console.Write(i + " ");
             else
                 Console.Write(comparer.DoCompare(i) + " ");
-                logger.Debug("Output = " + comparer.DoCompare(i));
+                Logger.Debug("Output = " + comparer.DoCompare(i));
         }
     }
 }
