@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/2QM44rfNXYnFiJ3iEG6KBPZxJ9SvCYGSZVpmiDiv8kJE+4tSTCsSNGI61yD1CF3OjwGZHvvKasVmvpTE4xdgQ==",
+  "dgSpecHash": "KXiiM5HmO/laqnrEyGQETHyCSOjV7GP+vtRNumwanc1FtZ87OkeQFaFaYZSe0cTKnNgZBHQG0swiN9349/vCbw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Bootcamp\\Day6\\FooBar\\FooBar.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

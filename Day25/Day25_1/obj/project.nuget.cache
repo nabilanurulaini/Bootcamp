@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BinV6m9kXzaSF5o3OyOhHXw6DHrOnNI19TwgtxUzzz9bgl1JCed/v/GpWZ7yW+WgPpr8N8b/KfA5JZzkvm1LJQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\HP\\Bootcamp\\Day25\\Day25_1\\Day25_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

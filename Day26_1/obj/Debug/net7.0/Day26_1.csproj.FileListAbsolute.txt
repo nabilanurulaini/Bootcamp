@@ -1,0 +1,17 @@
+C:\Users\HP\Bootcamp\Day26_1\bin\Debug\net7.0\Day26_1.exe
+C:\Users\HP\Bootcamp\Day26_1\bin\Debug\net7.0\Day26_1.deps.json
+C:\Users\HP\Bootcamp\Day26_1\bin\Debug\net7.0\Day26_1.runtimeconfig.json
+C:\Users\HP\Bootcamp\Day26_1\bin\Debug\net7.0\Day26_1.dll
+C:\Users\HP\Bootcamp\Day26_1\bin\Debug\net7.0\Day26_1.pdb
+C:\Users\HP\Bootcamp\Day26_1\bin\Debug\net7.0\NLog.dll
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.csproj.AssemblyReference.cache
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.AssemblyInfoInputs.cache
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.AssemblyInfo.cs
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.csproj.CopyComplete
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.dll
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\refint\Day26_1.dll
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.pdb
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\Day26_1.genruntimeconfig.cache
+C:\Users\HP\Bootcamp\Day26_1\obj\Debug\net7.0\ref\Day26_1.dll
