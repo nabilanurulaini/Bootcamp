@@ -23,7 +23,7 @@ public class CheckDictionary
     {
         dict.Remove(key);
         Console.WriteLine("Key = " + key + " successfully removed");
-    Logger.Info("Key = " + key + " successfully removed");
+    // Logger.Info("Key = " + key + " successfully removed");
     }
 
     public void Print()

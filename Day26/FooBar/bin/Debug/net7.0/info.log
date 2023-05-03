@@ -23,3 +23,7 @@
 2023-05-03 10:07:23.7995 Info FooBar.Logger - Key = 5, Value bar successfully added
 2023-05-03 10:07:23.8029 Info FooBar.Logger - Key = 7, Value buzz successfully added
 2023-05-03 10:07:23.8029 Info FooBar.Logger - Key = 7 successfully removed
+2023-05-03 10:16:23.1053 Info FooBar.Logger - Key = 3, Value foo successfully added
+2023-05-03 10:16:23.1340 Info FooBar.Logger - Key = 5, Value bar successfully added
+2023-05-03 10:16:23.1340 Info FooBar.Logger - Key = 7, Value buzz successfully added
+2023-05-03 10:16:23.1340 Info FooBar.Logger - Key = 7 successfully removed

@@ -9,7 +9,7 @@ namespace FooBar
         public static void Info(string message)
         {
             
-        LogManager.LoadConfiguration(Path.Combine(Directory.GetCurrentDirectory(), "nlog.config"));
+        LogManager.LoadConfiguration(@"C:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\nlog.config");
             logger.Info(message);
         }
 
