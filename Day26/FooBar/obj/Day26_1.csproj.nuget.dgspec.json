@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day24_1\\Day24_1.csproj": {}
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day26_1\\Day26_1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day24_1\\Day24_1.csproj": {
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day26_1\\Day26_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day24_1\\Day24_1.csproj",
-        "projectName": "Day24_1",
-        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day24_1\\Day24_1.csproj",
+        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day26_1\\Day26_1.csproj",
+        "projectName": "Day26_1",
+        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day26_1\\Day26_1.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day24_1\\obj\\",
+        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day26_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

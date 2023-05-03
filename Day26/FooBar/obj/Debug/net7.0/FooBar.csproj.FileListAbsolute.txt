@@ -1,0 +1,17 @@
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\bin\Debug\net7.0\FooBar.exe
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\bin\Debug\net7.0\FooBar.deps.json
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\bin\Debug\net7.0\FooBar.runtimeconfig.json
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\bin\Debug\net7.0\FooBar.dll
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\bin\Debug\net7.0\FooBar.pdb
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\bin\Debug\net7.0\NLog.dll
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.AssemblyInfo.cs
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.csproj.CopyComplete
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.dll
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\refint\FooBar.dll
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.pdb
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\FooBar.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\Bootcamp\Day26\FooBar\obj\Debug\net7.0\ref\FooBar.dll
