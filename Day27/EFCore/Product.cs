@@ -19,5 +19,5 @@ public class Product
     public int CategoryID { get; set; }
     //karena 1 product hanya memiliki 1 category, maka kita buat Category (untuk hubungan one to one)
     public virtual Category Category { get; set; } = null!;
-
+    
 }

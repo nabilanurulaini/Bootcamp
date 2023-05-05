@@ -15,9 +15,7 @@ public partial class Northwind : DbContext
     {
     }
 
-    public virtual DbSet<Category> Categories { get; set; }
-
-    public virtual DbSet<Product> Products { get; set; }
+    public virtual DbSet<Supplier> Suppliers { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
@@ -25,19 +23,9 @@ public partial class Northwind : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Category>(entity =>
+        modelBuilder.Entity<Supplier>(entity =>
         {
-            entity.Property(e => e.CategoryId).ValueGeneratedNever();
-        });
-
-        modelBuilder.Entity<Product>(entity =>
-        {
-            entity.Property(e => e.ProductId).ValueGeneratedNever();
-            entity.Property(e => e.Discontinued).HasDefaultValueSql("0");
-            entity.Property(e => e.ReorderLevel).HasDefaultValueSql("0");
-            entity.Property(e => e.UnitPrice).HasDefaultValueSql("0");
-            entity.Property(e => e.UnitsInStock).HasDefaultValueSql("0");
-            entity.Property(e => e.UnitsOnOrder).HasDefaultValueSql("0");
+            entity.Property(e => e.SupplierId).ValueGeneratedNever();
         });
 
         OnModelCreatingPartial(modelBuilder);
