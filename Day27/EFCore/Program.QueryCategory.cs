@@ -66,20 +66,20 @@ public partial class Program
     {
         using (Northwind db = new Northwind())
         {
-            
-            
+
+
             ShowCategory();
             PrintTitle("Edit Category");
             Print("Input category id = ");
             int inputCategoryID = Convert.ToInt32(GetInput());
-            
+
             Print("Input new category name = ");
             string inputCategory = GetInput();
-            
+
             Category category = db.Categories.Find(inputCategoryID);
             category.CategoryName = inputCategory;
             db.SaveChanges();
-            
+
             PrintSuccessMessage("Success edit category");
             PrintLn("");
             ShowCategory();
@@ -100,11 +100,11 @@ public partial class Program
             Category category = db.Categories.Find(inputCategoryID);
             db.Categories.Remove(category);
             db.SaveChanges();
-           
-           
+
+
             PrintSuccessMessage("Success delete category");
             PrintLn("");
-    
+
             ShowCategory();
         }
     }
@@ -123,19 +123,18 @@ public partial class Program
             Category category = db.Categories.Where(c => c.CategoryName == inputCategoryName).FirstOrDefault();
             db.Categories.Remove(category);
             db.SaveChanges();
-           
-           
+
             PrintSuccessMessage("Success delete category");
             PrintLn("");
-    
+
             ShowCategory();
         }
-    
+
     }
     //show category with description
     public static void ShowCategoryWithDescription()
     {
-        using(Northwind db = new Northwind())
+        using (Northwind db = new Northwind())
         {
             PrintTitle("Show Category With Description");
             var categories = db.Categories.OrderBy(c => c.CategoryID);
@@ -149,11 +148,11 @@ public partial class Program
     //add category description
     public static void AddCategoryDescriptionById()
     {
-        using(Northwind db = new Northwind())
+        using (Northwind db = new Northwind())
         {
             ShowCategory();
             PrintTitle("Add Category Description");
-            
+
             Print("Input category id = ");
             int inputCategoryID = Convert.ToInt32(GetInput());
 
@@ -172,5 +171,5 @@ public partial class Program
         }
     }
 
-    
+
 }

@@ -21,13 +21,24 @@ partial class Program
     {
         return Console.ReadLine();
     }
+    public static void PrintHeader(string header)
+    {
+        ConsoleColor previousColor = Console.ForegroundColor;
+        Console.ForegroundColor = ConsoleColor.DarkBlue;
+        PrintLn("==============================================");
+        PrintLn($"\t{header}");
+        PrintLn("==============================================");
+        PrintLn("");
+        PrintLn("");
+        Console.ForegroundColor = previousColor;
+    }
     //print  title with style
     public static void PrintTitle(string title)
     {
-       
+
         ConsoleColor previousColor = Console.ForegroundColor;
         Console.ForegroundColor = ConsoleColor.DarkBlue;
-        Console.WriteLine($"==================== {title} ====================");
+        PrintLn($"==================== {title} ====================");
         PrintLn("");
         Console.ForegroundColor = previousColor;
     }
@@ -48,5 +59,4 @@ partial class Program
         Console.WriteLine($"Error > {message}");
         Console.ForegroundColor = previousColor;
     }
-
 }

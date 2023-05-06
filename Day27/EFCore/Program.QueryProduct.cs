@@ -18,7 +18,7 @@ partial class Program
         }
     }
     //find all product where stock > input
-    public static void SearchProductByStock()
+    public static void ShowProductByStock()
     {
         using(Northwind db = new Northwind())
         {
@@ -31,7 +31,6 @@ partial class Program
             {
                 PrintLn($"{product.ProductID}. {product.ProductName} - Stock {product.Stock}");
             }
-            
         }
     }
 }

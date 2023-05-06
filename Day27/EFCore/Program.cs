@@ -5,7 +5,6 @@ namespace EFCore
     {
         public static void Main()
         {
-
             Northwind db = new Northwind();
             //print Microsoft.EntityFrameworkCore.Sqlite ini tandanya jika database sudah connect
             Console.WriteLine(db.Database.ProviderName);
@@ -17,11 +16,9 @@ namespace EFCore
             string inputMenu;
             bool isValidInput = false;
             Clear();
-            while(!isValidInput)
-            {   
+            while (!isValidInput)
+            {
                 PrintTitle("Menu");
-                PrintLn("1. Menu For Category");
-                PrintLn("2. Menu For Product");
                 PrintLn("1. Add Category");
                 PrintLn("2. Show Category");
                 PrintLn("3. Find Category");
@@ -36,7 +33,7 @@ namespace EFCore
                 PrintLn("12. Exit");
                 Print("Choose menu = ");
                 inputMenu = GetInput();
-                switch(inputMenu)
+                switch (inputMenu)
                 {
                     case "1":
                         AddCategory();
@@ -66,7 +63,7 @@ namespace EFCore
                         ShowProductWithCategoryAndStock();
                         break;
                     case "10":
-                        SearchProductByStock();
+                        ShowProductByStock();
                         break;
                     case "11":
                         ShowSupplierWithProduct();
@@ -77,9 +74,8 @@ namespace EFCore
                     default:
                         PrintLn("Invalid input");
                         break;
-                }   
+                }
             }
-        
         }
     }
 }
