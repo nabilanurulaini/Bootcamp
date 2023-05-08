@@ -1,0 +1,15 @@
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\BuilderDesignTelescopinConstructor.csproj.AssemblyReference.cache
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\BuilderDesignTelescopinConstructor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\BuilderDesignTelescopinConstructor.AssemblyInfoInputs.cache
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\BuilderDesignTelescopinConstructor.AssemblyInfo.cs
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\BuilderDesignTelescopinConstructor.csproj.CoreCompileInputs.cache
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\bin\Debug\net7.0\BuilderDesignTelescopinConstructor.exe
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\bin\Debug\net7.0\BuilderDesignTelescopinConstructor.deps.json
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\bin\Debug\net7.0\BuilderDesignTelescopinConstructor.runtimeconfig.json
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\bin\Debug\net7.0\BuilderDesignTelescopinConstructor.dll
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\bin\Debug\net7.0\BuilderDesignTelescopinConstructor.pdb
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\BuilderDesignTelescopinConstructor.dll
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\refint\BuilderDesignTelescopinConstructor.dll
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\BuilderDesignTelescopinConstructor.pdb
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\BuilderDesignTelescopinConstructor.genruntimeconfig.cache
+c:\Users\HP\Bootcamp\Day28\BuilderDesignTelescopinConstructor\obj\Debug\net7.0\ref\BuilderDesignTelescopinConstructor.dll
