@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Bootcamp\\Day28\\BuilderDesignPatternExample\\BuilderDesignPatternExample.csproj",
+      "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day28\\BuilderDesignPatternExample\\BuilderDesignPatternExample.csproj",
       "projectName": "BuilderDesignPatternExample",
-      "projectPath": "C:\\Users\\HP\\Bootcamp\\Day28\\BuilderDesignPatternExample\\BuilderDesignPatternExample.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Bootcamp\\Day28\\BuilderDesignPatternExample\\obj\\",
+      "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day28\\BuilderDesignPatternExample\\BuilderDesignPatternExample.csproj",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\Bootcamp\\Day28\\BuilderDesignPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
