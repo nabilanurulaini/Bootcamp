@@ -40,7 +40,7 @@ public class CakeBuilder : ICakeBuilder {
 
 // Products is the object that the builder will build
 public class Cake {
-    public string Name { get; set; }
+    public string? Name { get; set; }
     public int Size { get; set; }
     public bool HasChocolate { get; set; }
     public bool HasFruit { get; set; }
@@ -76,7 +76,7 @@ public class CakeMaker {
 }
  
 // Client as Main Program
-class Program {
+static class Program {
     static void Main(string[] args) {
         //initialize builder and director
         CakeBuilder builder = new CakeBuilder();

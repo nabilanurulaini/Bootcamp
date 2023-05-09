@@ -1,0 +1,15 @@
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\BuilderDesignUpdate.csproj.AssemblyReference.cache
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\BuilderDesignUpdate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\BuilderDesignUpdate.AssemblyInfoInputs.cache
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\BuilderDesignUpdate.AssemblyInfo.cs
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\BuilderDesignUpdate.csproj.CoreCompileInputs.cache
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\bin\Debug\net7.0\BuilderDesignUpdate.exe
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\bin\Debug\net7.0\BuilderDesignUpdate.deps.json
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\bin\Debug\net7.0\BuilderDesignUpdate.runtimeconfig.json
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\bin\Debug\net7.0\BuilderDesignUpdate.dll
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\bin\Debug\net7.0\BuilderDesignUpdate.pdb
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\BuilderDesignUpdate.dll
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\refint\BuilderDesignUpdate.dll
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\BuilderDesignUpdate.pdb
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\BuilderDesignUpdate.genruntimeconfig.cache
+c:\Users\HP\Bootcamp\Day28\BuilderDesignUpdate\obj\Debug\net7.0\ref\BuilderDesignUpdate.dll

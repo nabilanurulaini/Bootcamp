@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPatternExample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignTelescopinConstructor", "BuilderDesignTelescopinConstructor\BuilderDesignTelescopinConstructor.csproj", "{E4E3D8D7-E808-4EE7-895E-5602A08084F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignUpdate", "BuilderDesignUpdate\BuilderDesignUpdate.csproj", "{F7828B31-764D-462F-8F19-F7B31C07C94D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E4E3D8D7-E808-4EE7-895E-5602A08084F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4E3D8D7-E808-4EE7-895E-5602A08084F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4E3D8D7-E808-4EE7-895E-5602A08084F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7828B31-764D-462F-8F19-F7B31C07C94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7828B31-764D-462F-8F19-F7B31C07C94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7828B31-764D-462F-8F19-F7B31C07C94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7828B31-764D-462F-8F19-F7B31C07C94D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
