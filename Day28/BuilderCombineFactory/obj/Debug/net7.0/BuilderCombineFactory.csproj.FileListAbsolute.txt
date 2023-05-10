@@ -1,0 +1,15 @@
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\BuilderCombineFactory.csproj.AssemblyReference.cache
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\BuilderCombineFactory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\BuilderCombineFactory.AssemblyInfoInputs.cache
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\BuilderCombineFactory.AssemblyInfo.cs
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\BuilderCombineFactory.csproj.CoreCompileInputs.cache
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\bin\Debug\net7.0\BuilderCombineFactory.exe
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\bin\Debug\net7.0\BuilderCombineFactory.deps.json
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\bin\Debug\net7.0\BuilderCombineFactory.runtimeconfig.json
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\bin\Debug\net7.0\BuilderCombineFactory.dll
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\bin\Debug\net7.0\BuilderCombineFactory.pdb
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\BuilderCombineFactory.dll
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\refint\BuilderCombineFactory.dll
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\BuilderCombineFactory.pdb
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\BuilderCombineFactory.genruntimeconfig.cache
+c:\Users\HP\Bootcamp\Day28\BuilderCombineFactory\obj\Debug\net7.0\ref\BuilderCombineFactory.dll
